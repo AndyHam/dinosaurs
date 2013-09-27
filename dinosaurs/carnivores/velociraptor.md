@@ -3,6 +3,7 @@ name: Velociraptor
 size: 2 m
 discovery: 1924
 discoverer: Henry Fairfield Osborn
+thumb: velociraptor.jpg
 period: Late Cretaceous
 description: The Velociraptor is best known for its inaccurate portrayal in films including Jurassic Park
 category: carnivore
